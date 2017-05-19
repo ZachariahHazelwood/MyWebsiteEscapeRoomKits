@@ -11,6 +11,7 @@ body{
   width:80%;
   margin: auto;
   overflow: hidden;
+  float:left; 
 }
 ul{
   margin:0;
@@ -34,7 +35,9 @@ text-transform: uppercase;
 font-size: 16px;
 }
 
-
+img{
+   float:left; 
+}
 
 header li{
   float:left;
@@ -42,7 +45,7 @@ header li{
   padding: 0 20px 0 20px;
 }
 header #branding{
-  flaot:left;
+ float:left;
 
 }
 header #branding h1{
