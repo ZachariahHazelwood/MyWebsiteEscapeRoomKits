@@ -11,6 +11,7 @@ body{
   width:80%;
   margin: auto;
   overflow: hidden;
+  float:left;
 }
 ul{
   margin:0;
@@ -38,7 +39,7 @@ font-size: 16px;
 img
 {
 margin: 1px auto;
-display: left; 
+float:left;
 }
 
 
