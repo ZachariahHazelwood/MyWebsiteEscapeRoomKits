@@ -32,6 +32,7 @@ color: #ffffff;
 text-decoration: none;
 text-transform: uppercase;
 font-size: 16px;
+
 }
 
 
@@ -40,9 +41,10 @@ header li{
   float:left;
   display:inline-block;
   padding: 0 20px 0 20px;
+  
 }
 header #branding{
-  flaot:left;
+  float:left;
 
 }
 header #branding h1{
